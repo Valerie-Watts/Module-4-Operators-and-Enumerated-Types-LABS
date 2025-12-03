@@ -1,4 +1,4 @@
-# README: LAB Operator Overloading. Custom I/O
+# LAB Operator Overloading. Custom I/O
 
 Este documento detalla el funcionamiento del programa C++ que implementa la clase `Mattrix`, enfocándose en la sobrecarga de los operadores de flujo de entrada y salida para facilitar la manipulación de objetos personalizados.
 
