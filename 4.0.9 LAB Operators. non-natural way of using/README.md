@@ -1,4 +1,4 @@
-# Stack Implementation with Operator Overloading & Exceptions
+# 4.0.9 LAB Operators. non-natural way of using
 
 Este documento detalla el funcionamiento del programa C++ que implementa una estructura de datos tipo Pila (`Stack`) utilizando listas enlazadas, sobrecarga de operadores para las operaciones de `push` y `pop`, y manejo de excepciones para el control de errores.
 
